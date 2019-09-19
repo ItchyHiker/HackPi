@@ -1,2 +1,2 @@
 # HackPi
-funny projects using raspberry pi
+Funny projects using raspberry pi
